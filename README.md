@@ -34,12 +34,12 @@ lib/
 |- main.dart
 ```
 
-### screens
+### view
 
-This directory screens all the screen of the application together in one place. A separate file is created for each type as shown in example below:
+This directory screens all the view of the application together in one place. A separate file is created for each type as shown in example below:
 
 ```
-screens/
+view/
 |- home_page.dart
 
 ```
